@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/dikhiachmaddani/Documents/Area/magoten/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/dikhiachmaddani/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/dikhiachmaddani/Documents/Area/magoten/dicoding-fundamental/multiplatformapp_project1_fundamental/android/app/.cxx/Debug/6t4c4t2p/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/dikhiachmaddani/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/dikhiachmaddani/Documents/Area/magoten/dicoding-fundamental/multiplatformapp_project1_fundamental/android/app/.cxx/Debug/6t4c4t2p/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

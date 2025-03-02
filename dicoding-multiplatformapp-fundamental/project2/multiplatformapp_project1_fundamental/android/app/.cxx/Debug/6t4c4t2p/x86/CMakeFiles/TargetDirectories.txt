@@ -1,0 +1,2 @@
+/Users/dikhiachmaddani/Documents/Area/magoten/dicoding-fundamental/multiplatformapp_project1_fundamental/android/app/.cxx/Debug/6t4c4t2p/x86/CMakeFiles/edit_cache.dir
+/Users/dikhiachmaddani/Documents/Area/magoten/dicoding-fundamental/multiplatformapp_project1_fundamental/android/app/.cxx/Debug/6t4c4t2p/x86/CMakeFiles/rebuild_cache.dir
