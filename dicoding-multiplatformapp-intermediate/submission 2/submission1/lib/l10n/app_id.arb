@@ -1,0 +1,19 @@
+{
+  "titleAppBar": "Majang Apps",
+  "titleAddStory": "Tambah Cerita",
+  "titleUploadImage": "Ketuk disini untuk mengunggah gambar.",
+  "titleLogin": "Selamat Datang\nSaudaraku.",
+  "descriptionLogin": "Kalau sudah punya akun,\nbisa langsung isi formulir di sini ya..!",
+  "titleRegister": "Selamat Datang\nSobat.",
+  "descriptionRegister": "Kalau belum punya akun,\nbisa langsung isi formulir di sini ya..!",
+  "networkError": "Mohon Maaf, Server gagal untuk memuat data story. Mohon untuk cek ulang jaringan internet anda.",
+  "createdAt": "Memposting pada: {created}",
+  "@createdAt": {
+    "description": "Deskripsi variabel createdAt",
+    "placeholders": {
+      "created": {
+        "type": "String"
+      }
+    }
+  }
+}

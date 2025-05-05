@@ -1,0 +1,19 @@
+{
+  "titleAppBar": "Forward Apps",
+  "titleAddStory": "Add Story",
+  "titleUploadImage": "Click Here to Pick Image.",
+  "networkError": "Sorry, the server failed to load the story data. Please recheck your internet connection.",
+  "titleLogin": "Welcome\nBrother.",
+  "descriptionLogin": "If you have an account yet,\nyou can directly fill out the form here, okay..!",
+  "titleRegister": "Welcome\nBuddy.",
+  "descriptionRegister": "If you don't have an account yet,\nyou can directly fill out the form here, okay..!",
+  "createdAt": "Posted on: {created}",
+  "@createdAt": {
+    "description": "Description variable createdAt",
+    "placeholders": {
+      "created": {
+        "type": "String"
+      }
+    }
+  }
+}
